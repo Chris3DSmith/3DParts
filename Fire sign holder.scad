@@ -5,7 +5,7 @@ difference () {
 		translate ([2.5, 2.5, 2])
 		cube(size=[155, 130, 10], centre=true);
 		translate ([1, 1, 2])
-		#cube(size=[157.5, 150, 1], centre=true);
+		cube(size=[157.5, 150, 1], centre=true);
 }
 // Screw hole
 difference () {
