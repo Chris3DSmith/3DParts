@@ -10,7 +10,7 @@ difference () {
 // Screw hole
 difference () {
 	translate([75, 105, 0])
-	cylinder(h = 1, r = 8);
+	cylinder(h = 1, r = 7);
 			translate([75, 105, -5])
 			cylinder(h = 20, r = 3);
 }
